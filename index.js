@@ -1,1 +1,1 @@
-console.log("javascritp is ok")
+console.log("javascript is ok")
