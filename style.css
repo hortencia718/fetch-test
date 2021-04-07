@@ -4,6 +4,10 @@ body {
 }
 
 
+h1 {
+    color:rgb(25, 29, 32);
+}
+
 
 button {
     font-size: 24px;
@@ -34,7 +38,7 @@ button {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    background-color: #00000033;
+    background-color: #2057abe8;
     border-radius: 85px;
     min-height: 170px;
     font-size: 81px;
