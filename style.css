@@ -1,9 +1,16 @@
+
+body {
+    background-color: rgb(126, 147, 158);
+}
+
+
+
 button {
     font-size: 24px;
     background: #55f;
     border: none;
     border-radius: 10000px;
-    color: white;
+    color: rgb(248, 242, 242);
     padding: 20px;
     float: right;
     margin: 0 0 20px;
