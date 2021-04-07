@@ -48,3 +48,17 @@ dogButton.addEventListener("click", (evt) =>{
 // arr.forEach((element)=>{
 // do something with element
 // })
+
+
+
+
+// schema for foxes
+// table
+// t.string "name"
+// t.string "img_url"
+// 
+
+
+// seed file
+// def img_link num
+// 
